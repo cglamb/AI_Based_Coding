@@ -11,7 +11,7 @@ This project explores the usefulness of various AI tools in generating Go code, 
 
 ## Model Summary and Findings
 
-### Large-Language Model – OpenAI's ChatGPT 4
+### OpenAI's ChatGPT 4
 
 In assessing ChatGPT 4, the aim was to evaluate its ability to generate Go code for a simple linear regression. The prompt used for this assessment is available at [ChatGPT 4 Prompt](https://chat.openai.com/share/f2d02a7f-2cea-4b5d-a9ca-db5b3b7ad335), with a text version included in the repository as `ChatGPT4_Prompting.txt`.
 
