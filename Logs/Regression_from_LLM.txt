@@ -1,0 +1,5 @@
+PS C:\Users\...\ChatGPT> go run Regression_from_LLM.go
+Dataset1 - Slope: 0.5001, Intercept: 3.0001
+Dataset2 - Slope: 0.5000, Intercept: 3.0009
+Dataset3 - Slope: 0.4997, Intercept: 3.0025
+Dataset4 - Slope: 0.4999, Intercept: 3.0017

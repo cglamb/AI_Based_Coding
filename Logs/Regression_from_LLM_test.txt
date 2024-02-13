@@ -1,0 +1,3 @@
+S C:\Users\CGLam\...\Wk7_Assignment\ChatGPT> go test -bench=/
+PASS
+ok      chatgpt 0.121s

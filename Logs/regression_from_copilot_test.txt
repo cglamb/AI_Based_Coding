@@ -1,0 +1,3 @@
+PS C:\Users\...\CoPilot> go test -bench=/
+PASS
+ok      _/C_/Users/CGLam/OneDrive_-_Northwestern_University/MSDS_431/Wk7_Assignment/CoPilot     0.132s

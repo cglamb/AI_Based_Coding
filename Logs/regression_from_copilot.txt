@@ -1,0 +1,9 @@
+PS C:\Users\CGLam\...\CoPilot> go run regression_from_copilot.go
+Dataset 1:
+y = 0.5001x + 3.0001
+Dataset 2:
+y = 0.5000x + 3.0009
+Dataset 3:
+y = 0.4997x + 3.0025
+Dataset 4:
+y = 0.4999x + 3.0017
