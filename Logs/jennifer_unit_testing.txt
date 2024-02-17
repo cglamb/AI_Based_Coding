@@ -1,0 +1,10 @@
+PS C:\Users\...\Wk7_Assignment\Jennifer> go test -v
+=== RUN   TestRegress
+=== RUN   TestRegress/Test_Case_1:_y_=_2x_+_1
+=== RUN   TestRegress/Test_Case_2:_y_=_0x_+_2
+=== RUN   TestRegress/Test_Case_3:_y_=_2x_+_4
+--- PASS: TestRegress (0.00s)
+    --- PASS: TestRegress/Test_Case_1:_y_=_2x_+_1 (0.00s)
+    --- PASS: TestRegress/Test_Case_2:_y_=_0x_+_2 (0.00s)
+    --- PASS: TestRegress/Test_Case_3:_y_=_2x_+_4 (0.00s)
+PASS
