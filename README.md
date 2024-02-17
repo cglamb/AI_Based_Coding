@@ -19,7 +19,7 @@ As background, the project attempts to replicate the go-based regression done in
 
 AI coding tools can be extremely helpful in developing code. The case study above demonstrates how an AI tool could be used to increase efficiency when developing a simple linear regression program in Golang. We would recommend any developer or company employing developers explore the viability of utilizing these tools. While there is likely efficiency advantages in these tools, one clear disadvantage is AI-tools like these will be unfamiliar with custom libraries or code-bases (which may be a significant disadvantage for some developers/companies).  Another disadvantage (as noted in the findings below) is that simple human error can be perpetuated by these tools.  Additionally, it should be noted that this case study was based on a short and fairly common tasks. Follow-up research should be conducted, relating to the effectiveness of these tools in more specialized and complicated applications.  Also recommended is that any user of these tools understand the temperature paramterization of these models, and should consider adjusting temperature downward (if possible).
 
-More info on temperature for Large Lanuage Models - https://deepchecks.com/glossary/llm-parameters/#:~:text=LLM%20Temperature&text=A%20higher%20temperature%20value%20typically,to%20the%20most%20likely%20prediction.
+More info on temperature for Large Lanuage Models - [[https://deepchecks.com/glossary/llm-parameters/#:~:text=LLM%20Temperature&text=A%20higher%20temperature%20value%20typically,to%20the%20most%20likely%20prediction.](https://deepchecks.com/glossary/llm-parameters/)](https://deepchecks.com/glossary/llm-parameters/)
 
 ## Model Findings and Summary
 
