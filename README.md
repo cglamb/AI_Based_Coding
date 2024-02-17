@@ -19,7 +19,7 @@ As background, the project attempts to replicate the go-based regression done in
 
 AI coding tools can be extremely helpful in developing code. The case study above demonstrates how an AI tool could be used to increase efficiency when developing a simple linear regression program in Golang. We would recommend any developer or company employing developers explore the viability of utilizing these tools. While there is likely efficiency advantages in these tools, one clear disadvantage is AI-tools like these will be unfamiliar with custom libraries or code-bases (which may be a significant disadvantage for some developers/companies).  Another disadvantage (as noted in the findings below) is that simple human error can be perpetuated by these tools.  Additionally, it should be noted that this case study was based on a short and fairly common tasks. Follow-up research should be conducted, relating to the effectiveness of these tools in more specialized and complicated applications.  Also recommended is that any user of these tools understand the temperature paramterization of these models, and should consider adjusting temperature downward (if possible).
 
-More info on temperature for Large Lanuage Models - [[https://deepchecks.com/glossary/llm-parameters/]]
+More info on temperature for Large Lanuage Models - [https://deepchecks.com/glossary/llm-parameters/)
 
 ## Model Findings and Summary
 
@@ -27,6 +27,7 @@ More info on temperature for Large Lanuage Models - [[https://deepchecks.com/glo
 
 **Link to ChatGPT:** [https://chat.openai.com/](https://chat.openai.com/)  
 **Prompt available at:** [https://chat.openai.com/share/f2d02a7f-2cea-4b5d-a9ca-db5b3b7ad335](https://chat.openai.com/share/f2d02a7f-2cea-4b5d-a9ca-db5b3b7ad335)  
+
 A txt version of the prompt is included as “ChatGPT4_Prompting.txt” in this repository.
 
 Overall, ChatGPT 4 successfully wrote code that performed the regressions and produced the correct output. Only one issue arose, which was the result of the LLM being asked to use “montanaflynn/stat” instead of “montanaflynn/stats”. The incorrect spelling was perpetuated throughout the code and only resolved once I troubleshooted the issue. While this was primarily a user error, ChatGPT perpetuated the issue saying that it recognized the incorrect library:
