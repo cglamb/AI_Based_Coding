@@ -47,7 +47,7 @@ I am not familiar with the montanaflynn/stat library for Go.
 
 **Link to GitHub CoPilot:** [https://github.com/features/copilot](https://github.com/features/copilot)
 
-GitHub Copilot's evaluation focused on its auto-completion and AI-based code proposal features, intentionally avoiding CoPilot chat due to its use of an OpenAI LLM, which would overlap with the ChatGPT test. Copilot's recommendations became significantly more accurate after the initial 10-15 lines of code, providing excellent suggestions that improved coding efficiency. Despite this, Copilot's effectiveness still depends on the user's ability to guide the AI, especially in more complex programming scenarios. In the early phases of testing GitHub CoPilot, I added only minimal commenting. This was a mistake as CoPilot can read comments to contextualize and provide more meaningful suggestions.
+GitHub Copilot's evaluation focused on its auto-completion and AI-based code proposal features. Copilot's recommendations became significantly more accurate after the initial 10-15 lines of code, providing excellent suggestions that improved coding efficiency. Despite this, Copilot's effectiveness still depends on the user's ability to guide the AI, especially in more complex programming scenarios. In the early phases of testing GitHub CoPilot, I added only minimal commenting. This was a mistake as CoPilot can read comments to contextualize and provide more meaningful suggestions.
 
 ### Jennifer Conclusions
 
