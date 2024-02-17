@@ -1,5 +1,7 @@
 package main
 
+//the following code was used to generate the unit test in regression_test.go
+
 // import (
 // 	"github.com/dave/jennifer/jen"
 // 	"github.com/montanaflynn/stats"

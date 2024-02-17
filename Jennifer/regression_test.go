@@ -1,10 +1,13 @@
 package main
 
 import (
-	stats "github.com/montanaflynn/stats"
 	"testing"
+
+	stats "github.com/montanaflynn/stats"
 )
 
+// unit test was developed using jennifer library
+// see jennifer_code.go for the original code
 func TestRegress(t *testing.T) {
 	tests := []struct {
 		name              string

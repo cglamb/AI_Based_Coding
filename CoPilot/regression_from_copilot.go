@@ -1,5 +1,8 @@
 package main
 
+//the following code was written with the help of copilot
+//comments were added to explain the code and the role of copilot in writing the code
+
 import (
 	"github.com/montanaflynn/stats"
 	"golang.org/x/exp/errors/fmt"
